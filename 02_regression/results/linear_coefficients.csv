@@ -1,0 +1,40 @@
+Feature,Coef
+Credit_yes,-1296.8534491152059
+Last Contact Month_jan,-779.3322599470532
+Last Contact Month_jul,-593.4251870125414
+Personal Loan_yes,-552.5808505362808
+Last Contact Month_aug,-365.2636882651545
+Last Contact Month_feb,-328.76048494802126
+Last Contact Month_may,-305.45171607592715
+Housing Loan_yes,-167.05869470066835
+Contact_unknown,-131.31688108917308
+Job_services,-42.67040102428114
+Campaign,-10.205319300192704
+Pdays,-0.6158487820113498
+Previous,2.5545250405074795
+Job_housemaid,48.64733609717267
+Last Contact Day,52.013833882124864
+Job_blue-collar,60.1071291787477
+Last Contact Month_sep,60.88054980456793
+Last Contact Duration,60.98299308165438
+Previously_Contacted,68.68249105552495
+Poutcome_other,113.06653309751388
+Job_technician,118.5945002807529
+Education,134.1989416607421
+Last Contact Month_jun,149.33496110617565
+Job_unknown,164.15019408594452
+Job_retired,164.29663144617243
+Poutcome_success,185.81209095845705
+Last Contact Month_mar,191.90366666439323
+Job_unemployed,206.51486062939335
+Contact_telephone,214.8830622888123
+Job_entrepreneur,279.8849771824784
+Last Contact Month_dec,300.1771653025504
+Marital Status_married,326.15786551018743
+Job_student,339.7981483988612
+Job_self-employed,353.7951285049856
+Job_management,407.8398311622572
+Marital Status_single,416.51052616498436
+Age,417.75860441760597
+Last Contact Month_oct,433.20175880391685
+Last Contact Month_nov,795.4348780369289

@@ -1,0 +1,7 @@
+{
+  "BEST_K": 7,
+  "BEST_WEIGHTS": "distance",
+  "TREE_MAX_DEPTH": 12,
+  "TREE_CRITERION": "entropy",
+  "LR_CLASS_WEIGHT": "balanced"
+}

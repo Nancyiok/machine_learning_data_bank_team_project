@@ -1,0 +1,5 @@
+Model,R2_low,R2_high,RF_minus_low,RF_minus_high
+Linear Regression,0.0376,0.0553,0.0047,0.0176
+k-NN,0.0324,0.0553,0.0059,0.0216
+Decision Tree,0.0307,0.0614,0.0032,0.0195
+Random Forest,0.0458,0.0693,0.0,0.0

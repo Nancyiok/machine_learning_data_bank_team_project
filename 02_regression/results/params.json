@@ -1,0 +1,6 @@
+{
+  "BEST_K": 100,
+  "TREE_MAX_DEPTH": 6,
+  "TREE_MIN_LEAF": 100,
+  "RF_MIN_LEAF": 100
+}

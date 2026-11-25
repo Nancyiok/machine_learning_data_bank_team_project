@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,MCC
+Baseline (always No),0.883,0.0,0.0,0.0,0.5,0.0
+k-NN,0.8941,0.594,0.2987,0.3975,0.8363,0.371
+Decision Tree,0.899,0.5761,0.5189,0.546,0.8466,0.4902
+Logistic Regression,0.8445,0.4158,0.8119,0.5499,0.9078,0.5058
+Random Forest,0.9079,0.6783,0.4045,0.5068,0.9284,0.4783
+HistGradientBoosting,0.9084,0.6482,0.4754,0.5485,0.933,0.5063

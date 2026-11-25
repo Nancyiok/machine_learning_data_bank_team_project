@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
